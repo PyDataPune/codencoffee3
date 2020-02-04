@@ -1,0 +1,3 @@
+[submodule "ml-knn-scratch"]
+	path = ml-knn-scratch
+	url = https://github.com/Sarkutz/ml-knn-scratch.git
